@@ -1,0 +1,8 @@
+MODEL DEPLOYMENT INFORMATION
+Model Name: Tuned Random Forest
+Algorithm: Random Forest Regressor
+Version: 1.0
+Dataset: student performance Dataset
+Target: G3
+R2 Score: 0.913
+Created On: 2026-09-11 11:55:26.861827
